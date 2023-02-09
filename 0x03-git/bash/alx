@@ -1,1 +1,2 @@
-#!/bin/bashchon "ALX" 
+#!/bin/bash
+echo "ALX_School"
